@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "OASIS: 3-Day Team Template"
-subtitle: "A friction-free guide for collaborative research sprints"
+title: "Historic Biodiversity & Human Infrastructure — Team Playbook"
+subtitle: "Innovation Summit 2025 • Group 5"
 hero_image: assets/template/hero.svg
 team_logo: assets/template/team-logo.svg
-contact_slack: "#oasis-project-room"
-contact_email: "team@example.org"
-repo_owner: "cu-esiil"
-repo_name: "Project_group_OASIS"
+contact_slack: "#historic-biodiversity-group5"
+contact_email: "innovation-summit@esiil.org"
+repo_owner: "CU-ESIIL"
+repo_name: "historic-biodiversity-human-infrastructure-innovation-summit-2025__5"
 edit_path: "docs/project_template.md"
 ---
 

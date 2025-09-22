@@ -1,9 +1,16 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
-title: "Project Group OASIS"
-version: "1.0.0"
-doi: 10.5281/zenodo.11166898
-date-released: 2025-09-10
+title: "Historic Biodiversity & Human Infrastructure — Innovation Summit 2025 (Group 5)"
+abstract: "Website and code hub for aligning historic biodiversity records with infrastructure planning during the 2025 ESIIL Innovation Summit."
+version: "0.1.0"
+date-released: 2025-02-01
+repository-code: https://github.com/CU-ESIIL/historic-biodiversity-human-infrastructure-innovation-summit-2025__5
+url: https://cu-esiil.github.io/historic-biodiversity-human-infrastructure-innovation-summit-2025__5/
 authors:
-  - family-names: Tuff
-    given-names: Ty
+  - name: "ESIIL Innovation Summit Group 5"
+    affiliation: "Environmental Data Science Innovation and Inclusion Lab (ESIIL), University of Colorado Boulder"
+keywords:
+  - biodiversity
+  - infrastructure
+  - innovation summit
+  - restoration planning
