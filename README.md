@@ -10,7 +10,7 @@ This guide is written for people who may be brand new to GitHub. It will show yo
 ## Quick links
 - **Website:** https://cu-esiil.github.io/historic-biodiversity-human-infrastructure-innovation-summit-2025__5/
 - **Repository:** https://github.com/CU-ESIIL/historic-biodiversity-human-infrastructure-innovation-summit-2025__5
-- **Group 5 CyVerse storage:** https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_5
+- **Group 5 CyVerse storage:** https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_5?type=folder&resourceId=876eb1d4-959c-11f0-b0fb-90e2ba675364
 
 
 **Template users:** If you are reusing this structure for another project, start with [TEMPLATE_GUIDE.md](TEMPLATE_GUIDE.md) for the required name and link updates.

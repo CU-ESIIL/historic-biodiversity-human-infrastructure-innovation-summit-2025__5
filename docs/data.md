@@ -3,7 +3,7 @@
 Use this page to keep track of every dataset used in the Historic Biodiversity & Human Infrastructure sprint. Add links as soon as you adopt a source so teammates know where to find it and what preparation steps are required.
 
 ## Quick links
-- **Group 5 CyVerse folder:** [i:/iplant/home/shared/esiil/Innovation_summit/Group_5](https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_5)
+- **Group 5 CyVerse folder:** [i:/iplant/home/shared/esiil/Innovation_summit/Group_5](https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_5?type=folder&resourceId=876eb1d4-959c-11f0-b0fb-90e2ba675364)
 - **Shared code repository:** [code/ directory](https://github.com/CU-ESIIL/historic-biodiversity-human-infrastructure-innovation-summit-2025__5/tree/main/code)
 - **Working notes:** [documentation/group-notes.md](https://github.com/CU-ESIIL/historic-biodiversity-human-infrastructure-innovation-summit-2025__5/blob/main/documentation/group-notes.md)
 
