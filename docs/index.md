@@ -11,7 +11,7 @@ HERO (Swap hero.jpg, title, strapline, and the three links)
 
 **One sentence on impact:** Within 72 hours we will align a century of biodiversity observations with transportation and energy infrastructure so planners can see where ecological restoration and resilience investments matter most.
 
-**[Project brief (PDF)](#) · [View shared code](https://github.com/CU-ESIIL/historic-biodiversity-human-infrastructure-innovation-summit-2025__5/tree/main/code) · [Data & storage](data.md)**
+**[Project brief (PDF)](assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdf) · [View shared code](https://github.com/CU-ESIIL/historic-biodiversity-human-infrastructure-innovation-summit-2025__5/blob/main/code/fired_time_hull_panel.ipynb) · [Explore data](https://github.com/CU-ESIIL/historic-biodiversity-human-infrastructure-innovation-summit-2025__5/blob/main/code/prism_quicklook.py)**
 
 > **About this site:** Group 5 is using this page as a living, visual logbook during the 2025 Innovation Summit. Edit anything directly in your browser: open a file → pencil icon → Commit changes.
 
@@ -152,7 +152,7 @@ Historic biodiversity data is rarely in the same conversation as engineering pla
   <a href="https://github.com/CU-ESIIL/historic-biodiversity-human-infrastructure-innovation-summit-2025__5/blob/main/code/fired_time_hull_panel.ipynb"><img src="assets/button_code.gif" alt="View shared code" width="240"><br><strong>Review notebooks</strong></a>
 </td>
 <td align="center" width="33%">
-  <a href="https://github.com/CU-ESIIL/historic-biodiversity-human-infrastructure-innovation-summit-2025__5/blob/main/code/single_hull_demo.py"><img src="assets/button_data.gif" alt="Explore data" width="240"><br><strong>Explore data workflows</strong></a>
+  <a href="https://github.com/CU-ESIIL/historic-biodiversity-human-infrastructure-innovation-summit-2025__5/blob/main/code/prism_quicklook.py"><img src="assets/button_data.gif" alt="Explore data" width="240"><br><strong>Explore data workflows</strong></a>
 </td>
 </tr>
 </table>
@@ -177,7 +177,7 @@ Documentation
 Use the [`docs/`](https://github.com/CU-ESIIL/historic-biodiversity-human-infrastructure-innovation-summit-2025__5/tree/main/docs) folder to publish project updates on this site. Longer internal notes can live in [`documentation/`](https://github.com/CU-ESIIL/historic-biodiversity-human-infrastructure-innovation-summit-2025__5/tree/main/documentation); summarize key takeaways here so the public story stays current.
 
 Persistent storage
-Archive large datasets and outputs in the [Group 5 CyVerse folder](https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_5). Reference the specific collection paths on the [Data](data.md) page so others can retrieve them.
+Archive large datasets and outputs in the [Group 5 CyVerse folder](https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_5?type=folder&resourceId=876eb1d4-959c-11f0-b0fb-90e2ba675364). Reference the specific collection paths on the [Data](data.md) page so others can retrieve them.
 
 ---
 
